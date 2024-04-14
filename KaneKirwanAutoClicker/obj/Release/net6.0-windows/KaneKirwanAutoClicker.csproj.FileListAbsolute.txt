@@ -1,0 +1,17 @@
+C:\Users\kanek\source\repos\KaneKirwanAutoClicker\KaneKirwanAutoClicker\bin\Release\net6.0-windows\KaneKirwanAutoClicker.exe
+C:\Users\kanek\source\repos\KaneKirwanAutoClicker\KaneKirwanAutoClicker\bin\Release\net6.0-windows\KaneKirwanAutoClicker.deps.json
+C:\Users\kanek\source\repos\KaneKirwanAutoClicker\KaneKirwanAutoClicker\bin\Release\net6.0-windows\KaneKirwanAutoClicker.runtimeconfig.json
+C:\Users\kanek\source\repos\KaneKirwanAutoClicker\KaneKirwanAutoClicker\bin\Release\net6.0-windows\KaneKirwanAutoClicker.dll
+C:\Users\kanek\source\repos\KaneKirwanAutoClicker\KaneKirwanAutoClicker\bin\Release\net6.0-windows\KaneKirwanAutoClicker.pdb
+C:\Users\kanek\source\repos\KaneKirwanAutoClicker\KaneKirwanAutoClicker\obj\Release\net6.0-windows\KaneKirwanAutoClicker.csproj.AssemblyReference.cache
+C:\Users\kanek\source\repos\KaneKirwanAutoClicker\KaneKirwanAutoClicker\obj\Release\net6.0-windows\KaneKirwanAutoClicker.KaneKirwanAutoClicker.resources
+C:\Users\kanek\source\repos\KaneKirwanAutoClicker\KaneKirwanAutoClicker\obj\Release\net6.0-windows\KaneKirwanAutoClicker.csproj.GenerateResource.cache
+C:\Users\kanek\source\repos\KaneKirwanAutoClicker\KaneKirwanAutoClicker\obj\Release\net6.0-windows\KaneKirwanAutoClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanek\source\repos\KaneKirwanAutoClicker\KaneKirwanAutoClicker\obj\Release\net6.0-windows\KaneKirwanAutoClicker.AssemblyInfoInputs.cache
+C:\Users\kanek\source\repos\KaneKirwanAutoClicker\KaneKirwanAutoClicker\obj\Release\net6.0-windows\KaneKirwanAutoClicker.AssemblyInfo.cs
+C:\Users\kanek\source\repos\KaneKirwanAutoClicker\KaneKirwanAutoClicker\obj\Release\net6.0-windows\KaneKirwanAutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\kanek\source\repos\KaneKirwanAutoClicker\KaneKirwanAutoClicker\obj\Release\net6.0-windows\KaneKirwanAutoClicker.dll
+C:\Users\kanek\source\repos\KaneKirwanAutoClicker\KaneKirwanAutoClicker\obj\Release\net6.0-windows\refint\KaneKirwanAutoClicker.dll
+C:\Users\kanek\source\repos\KaneKirwanAutoClicker\KaneKirwanAutoClicker\obj\Release\net6.0-windows\KaneKirwanAutoClicker.pdb
+C:\Users\kanek\source\repos\KaneKirwanAutoClicker\KaneKirwanAutoClicker\obj\Release\net6.0-windows\KaneKirwanAutoClicker.genruntimeconfig.cache
+C:\Users\kanek\source\repos\KaneKirwanAutoClicker\KaneKirwanAutoClicker\obj\Release\net6.0-windows\ref\KaneKirwanAutoClicker.dll
